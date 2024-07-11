@@ -43,7 +43,7 @@ gcc --static -o rootshell rootshell.c
 2. Also change the permission of both the file to executable
 ```
 chmod +x rootshell
-chmod +x libhax
+chmod +x libhax.so
 ```
 4. Run Below Commands
 ```bash
